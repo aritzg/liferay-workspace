@@ -12,5 +12,6 @@
 	<packaging>pom</packaging>
   <modules>
     <module>aritz-listener</module>
+    <module>aritz-portlet</module>
   </modules>
 </project>
